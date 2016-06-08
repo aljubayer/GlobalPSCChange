@@ -1,0 +1,5 @@
+1. Export "3G Radio Network Planning Data Template" as xlsm format.
+2. Prepare input in "HuaweiPSCChangeWOTemplate.xlsx". If any sheet require no data, leave it blank. Then run GlobalPSC.exe.
+3. Output file "PSCChange.xlsx" will be generated.
+4. Then copy output file Worksheet data in paste as value in "3G Radio Network Planning Data Template.xlsm" file.
+5. Check DataNotFound.xlsx file if any data not found.

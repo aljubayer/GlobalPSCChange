@@ -1,0 +1,14 @@
+E:\ManiacProject_Bootstrap\GlobalPSC\GlobalPSC\GlobalPSC\bin\Debug\GlobalPSC.exe.config
+E:\ManiacProject_Bootstrap\GlobalPSC\GlobalPSC\GlobalPSC\bin\Debug\GlobalPSC.exe
+E:\ManiacProject_Bootstrap\GlobalPSC\GlobalPSC\GlobalPSC\bin\Debug\GlobalPSC.pdb
+E:\ManiacProject_Bootstrap\GlobalPSC\GlobalPSC\GlobalPSC\bin\Debug\EPPlus.dll
+E:\ManiacProject_Bootstrap\GlobalPSC\GlobalPSC\GlobalPSC\obj\Debug\GlobalPSC.csprojResolveAssemblyReference.cache
+E:\ManiacProject_Bootstrap\GlobalPSC\GlobalPSC\GlobalPSC\obj\Debug\GlobalPSC.exe
+E:\ManiacProject_Bootstrap\GlobalPSC\GlobalPSC\GlobalPSC\obj\Debug\GlobalPSC.pdb
+E:\ManiacProject_Bootstrap\GlobalPSC\GlobalPSC\GlobalPSC\bin\Debug\Microsoft.CSharp.dll
+E:\ManiacProject_Bootstrap\GlobalPSC\GlobalPSC\GlobalPSC\bin\Debug\System.Data.DataSetExtensions.dll
+E:\ManiacProject_Bootstrap\GlobalPSC\GlobalPSC\GlobalPSC\bin\Debug\System.Data.dll
+E:\ManiacProject_Bootstrap\GlobalPSC\GlobalPSC\GlobalPSC\bin\Debug\System.dll
+E:\ManiacProject_Bootstrap\GlobalPSC\GlobalPSC\GlobalPSC\bin\Debug\System.Drawing.dll
+E:\ManiacProject_Bootstrap\GlobalPSC\GlobalPSC\GlobalPSC\bin\Debug\System.Xml.dll
+E:\ManiacProject_Bootstrap\GlobalPSC\GlobalPSC\GlobalPSC\bin\Debug\System.Xml.Linq.dll
